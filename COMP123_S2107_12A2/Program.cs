@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
+ * Name: Linlin Han
+ * Date:
+ * Description:
+ * Version: 
+ */
 namespace COMP123_S2107_12A2
 {
     static class Program
@@ -16,7 +21,7 @@ namespace COMP123_S2107_12A2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Caculator());
         }
     }
 }
